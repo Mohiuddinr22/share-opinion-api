@@ -111,4 +111,4 @@ app.post('/opinions/:id/downvote', async (req, res) => {
   }
 });
 
-module.export = app;
+module.exports = app;
